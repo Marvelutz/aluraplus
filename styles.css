@@ -185,18 +185,26 @@ body{
     }
     .container__titulo{
         text-align: center;
+        justify-content: center;
         font-size: 18px;
         padding-top: 50%;
+
+    .container__aviso {
+        text-align: center;
+        justify-content: center;
+    }
        
      
     }
     .container__imagem{
         margin-top: 10%;
         width: 50vh;
+        justify-content: center;
     }
 
     .container__caixa{
         margin: 2em 2em;
+        justify-content: center;
     }
 
     .secundario{
@@ -206,6 +214,7 @@ body{
 
     .secundario__imagem{
         width: 50vw;
+        justify-content: center;
     }
 
     .dispositivos__lista{
