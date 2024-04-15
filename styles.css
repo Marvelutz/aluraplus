@@ -188,14 +188,16 @@ body{
         justify-content: center;
         font-size: 18px;
         padding-top: 50%;
+    }
 
-    .container__aviso {
-        text-align: center;
-        justify-content: center;
-    }
+   .container__aviso{
+    text-align: center;
+   }
        
+   .container__botao{
+    justify-content: center;
+   }
      
-    }
     .container__imagem{
         margin-top: 10%;
         width: 50vh;
