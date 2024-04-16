@@ -180,16 +180,14 @@ body{
     .principal{
         background-image: url(img/Backgroundmobile.png);
         background-repeat: no-repeat;
-        background-position: center;
-        text-align: center;
-        
-        
+        background-position: top center;
+
     }
     .container__titulo{
         text-align: center;
         justify-content: center;
         font-size: 18px;
-        padding-top: 50%;
+        padding-top: 65%;
     }
 
    .container__aviso{
@@ -211,9 +209,11 @@ body{
         justify-content: center;
     }
 
-    .secundario{
-        margin: 0;
+    .secundario{ 
+        margin:0%;
         text-align: center;
+        padding-top: 30%;
+        
     }
 
     .secundario__imagem{
