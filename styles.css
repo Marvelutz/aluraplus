@@ -200,6 +200,7 @@ body{
      
     .container__imagem{
         margin-top: 10%;
+        margin-right: 1%;
         width: 50vh;
         justify-content: center;
     }
