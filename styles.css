@@ -207,6 +207,7 @@ body{
     .container__caixa{
         margin: 2em 2em;
         justify-content: center;
+        text-align: center;
     }
 
     .secundario{ 
@@ -219,6 +220,8 @@ body{
     .secundario__imagem{
         width: 50vw;
         justify-content: center;
+        text-align: center;
+        
     }
 
     .dispositivos__lista{
